@@ -1,4 +1,4 @@
-# Stackoverflow-Clone-MERN
+# GeekGather
 
 ## Updates:
   - **Integrated AI chatbot using OpenAI**
